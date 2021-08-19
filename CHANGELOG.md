@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Added `priceDefinition` structure on Item.graphql an `priceDefinition` typings
+
 ## [0.61.0] - 2021-06-22
 ### Changed
 - Addresses with type `search` are not being filtered from the `selectedAddresses` anymore.
